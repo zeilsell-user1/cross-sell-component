@@ -22,7 +22,7 @@ export const TileContainer = styled.div<{ width:number }>`
 export const ImageContainer = styled.div<{ imageUrl?: string, aspectRatio:number }>`
   width: 100%;
   color: black;
-  border-radius: 20px 20px 0 0;
+  border-radius: 20px;
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
