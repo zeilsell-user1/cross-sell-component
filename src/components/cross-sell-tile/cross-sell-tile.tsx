@@ -28,7 +28,7 @@ export interface TileProps {
   ratio: AspectRatio;
 }
 
-const CrossSellTile = (props: TileProps) => {
+export const CrossSellTile = (props: TileProps) => {
   const width: number =
     props.size === Size.small
       ? 25
@@ -69,4 +69,3 @@ const CrossSellTile = (props: TileProps) => {
   );
 };
 
-export default CrossSellTile;

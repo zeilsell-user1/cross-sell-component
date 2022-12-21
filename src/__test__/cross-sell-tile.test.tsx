@@ -1,6 +1,6 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
-import CrossSellTile, { AspectRatio, Size } from "../components/cross-sell-tile";
+import { CrossSellTile, AspectRatio, Size } from "../components/cross-sell-tile";
 
 describe("CrossSellTile component", () => {
   it("should render", () => {
