@@ -1,2 +1,2 @@
-export { default } from './cross-sell-tile';
-export * from './cross-sell-tile.types';
+export { CrossSellTile } from './cross-sell-tile';
+export { Size, AspectRatio } from './cross-sell-tile.types';

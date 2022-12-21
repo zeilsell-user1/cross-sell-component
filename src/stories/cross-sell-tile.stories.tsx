@@ -1,7 +1,7 @@
 import React from "react";
 
 import { ComponentStory, ComponentMeta } from "@storybook/react";
-import CrossSellTile, {  AspectRatio,  Size, } from "../components/cross-sell-tile";
+import { CrossSellTile, AspectRatio,  Size, } from "../components/cross-sell-tile";
 
 export default {
   title: "CrossSellTile",
