@@ -1,1 +1,1 @@
-export { default as Button } from "./Button";
+export { default as CrossSellTile } from "./cross-sell-tile";

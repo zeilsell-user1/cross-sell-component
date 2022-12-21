@@ -1,0 +1,184 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CrossSellTile component should render 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <a
+        class="sc-bcXHqe jJsqlH"
+        href="https://www.bbc.co.uk"
+      >
+        <div
+          class="sc-gswNZR ckcRe"
+          width="25"
+        >
+          <div
+            class="sc-dkrFOg jnqSJo"
+          >
+            <div
+              class="sc-kDvujY jZKknC"
+            >
+              <div
+                class="sc-hLBbgP iClBfi"
+              >
+                <div
+                  class="sc-jSUZER hllBuS"
+                >
+                  <div
+                    class="sc-pyfCe jLBNac"
+                  >
+                    <h4
+                      class="sc-jrcTuL fnUPMj"
+                      color="#ad6521"
+                    >
+                      press
+                    </h4>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKPRtg dTlewa"
+                >
+                  <div
+                    class="sc-eDvSVe kwEMPw"
+                  >
+                    <h3
+                      class="sc-iBYQkv aYTZL"
+                      color="red"
+                    >
+                      small
+                    </h3>
+                  </div>
+                  <div
+                    class="sc-eDvSVe kwEMPw"
+                  >
+                    <h4
+                      class="sc-ftTHYK gToIrt"
+                      color="#45af67"
+                    >
+                      cool cross-sell offer
+                    </h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </body>,
+  "container": <div>
+    <a
+      class="sc-bcXHqe jJsqlH"
+      href="https://www.bbc.co.uk"
+    >
+      <div
+        class="sc-gswNZR ckcRe"
+        width="25"
+      >
+        <div
+          class="sc-dkrFOg jnqSJo"
+        >
+          <div
+            class="sc-kDvujY jZKknC"
+          >
+            <div
+              class="sc-hLBbgP iClBfi"
+            >
+              <div
+                class="sc-jSUZER hllBuS"
+              >
+                <div
+                  class="sc-pyfCe jLBNac"
+                >
+                  <h4
+                    class="sc-jrcTuL fnUPMj"
+                    color="#ad6521"
+                  >
+                    press
+                  </h4>
+                </div>
+              </div>
+              <div
+                class="sc-gKPRtg dTlewa"
+              >
+                <div
+                  class="sc-eDvSVe kwEMPw"
+                >
+                  <h3
+                    class="sc-iBYQkv aYTZL"
+                    color="red"
+                  >
+                    small
+                  </h3>
+                </div>
+                <div
+                  class="sc-eDvSVe kwEMPw"
+                >
+                  <h4
+                    class="sc-ftTHYK gToIrt"
+                    color="#45af67"
+                  >
+                    cool cross-sell offer
+                  </h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
