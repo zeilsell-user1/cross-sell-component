@@ -48,3 +48,17 @@ export const large: ComponentStory<typeof CrossSellTile> = () => (
     />
 );
 
+export const show: ComponentStory<typeof CrossSellTile> = () => (
+  <CrossSellTile
+    targetUrl="https://www.bbc.co.uk"
+    title="Great Offer!"
+    titleColor="blue"
+    strapline="cool cross-sell offer that your customer really wants!"
+    straplineColor="white"
+    ctaText="click here"
+    ctaTextColour="#ad6235"
+    size={Size.medium}
+    ratio={AspectRatio.widescreen}
+    imageUrl='https://learn.g2.com/hs-fs/hubfs/_learn-social-selling@2x.png?width=1480&name=_learn-social-selling@2x.png'
+    />
+);
