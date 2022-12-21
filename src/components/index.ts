@@ -1,1 +1,1 @@
-export { default as CrossSellTile } from "./cross-sell-tile";
+export { default as CrossSellTile, Size, AspectRatio } from "./cross-sell-tile";

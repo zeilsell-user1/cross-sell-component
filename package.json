@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/zeilsell-user1"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a small next library that adds a crossell component",
   "scripts": {
     "rollup": "rollup -c",
