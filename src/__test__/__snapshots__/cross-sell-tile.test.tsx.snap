@@ -1,133 +1,1273 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CrossSellTile component should render 1`] = `
+exports[`CrossSellTile component should render large and fullscreen 1`] = `
 {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <a
-        class="sc-bcXHqe jJsqlH"
-        href="https://www.bbc.co.uk"
+      <div
+        class="container"
+        style="width: 533.3333333333333px; height: 400px;"
       >
-        <div
-          class="sc-gswNZR ckcRe"
-          width="25"
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 10px;"
         >
           <div
-            class="sc-dkrFOg jnqSJo"
+            class="gradiantoverlay"
+            style="border-radius: 10px;"
           >
             <div
-              class="sc-kDvujY jZKknC"
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 506.6666666666666px; height: 200px; border-radius: 20px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
             >
               <div
-                class="sc-hLBbgP iClBfi"
+                class="textwrapper"
+                style="color: white; font-size: 30px;"
               >
-                <div
-                  class="sc-jSUZER hllBuS"
-                >
-                  <div
-                    class="sc-pyfCe jLBNac"
-                  >
-                    <h4
-                      class="sc-jrcTuL fnUPMj"
-                      color="#ad6521"
-                    >
-                      press
-                    </h4>
-                  </div>
-                </div>
-                <div
-                  class="sc-gKPRtg dTlewa"
-                >
-                  <div
-                    class="sc-eDvSVe kwEMPw"
-                  >
-                    <h3
-                      class="sc-iBYQkv aYTZL"
-                      color="red"
-                    >
-                      small
-                    </h3>
-                  </div>
-                  <div
-                    class="sc-eDvSVe kwEMPw"
-                  >
-                    <h4
-                      class="sc-ftTHYK gToIrt"
-                      color="#45af67"
-                    >
-                      cool cross-sell offer
-                    </h4>
-                  </div>
-                </div>
+                Buy One - Get One Free!
               </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 19.8px;"
+              >
+                An offer you don't want to miss
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 15px;"
+              >
+                limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 533.3333333333333px; height: 400px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 10px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 10px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 506.6666666666666px; height: 200px; border-radius: 20px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 30px;"
+            >
+              Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 19.8px;"
+            >
+              An offer you don't want to miss
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 15px;"
+            >
+              limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
             </div>
           </div>
         </div>
       </a>
     </div>
-  </body>,
-  "container": <div>
-    <a
-      class="sc-bcXHqe jJsqlH"
-      href="https://www.bbc.co.uk"
-    >
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render large and square 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
       <div
-        class="sc-gswNZR ckcRe"
-        width="25"
+        class="container"
+        style="width: 400px; height: 400px;"
       >
-        <div
-          class="sc-dkrFOg jnqSJo"
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 10px;"
         >
           <div
-            class="sc-kDvujY jZKknC"
+            class="gradiantoverlay"
+            style="border-radius: 10px;"
           >
             <div
-              class="sc-hLBbgP iClBfi"
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 380px; height: 200px; border-radius: 20px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
             >
               <div
-                class="sc-jSUZER hllBuS"
+                class="textwrapper"
+                style="color: white; font-size: 30px;"
               >
-                <div
-                  class="sc-pyfCe jLBNac"
-                >
-                  <h4
-                    class="sc-jrcTuL fnUPMj"
-                    color="#ad6521"
-                  >
-                    press
-                  </h4>
-                </div>
+                Buy One - Get One Free!
               </div>
               <div
-                class="sc-gKPRtg dTlewa"
+                class="textwrapper"
+                style="color: white; font-size: 19.8px;"
               >
-                <div
-                  class="sc-eDvSVe kwEMPw"
-                >
-                  <h3
-                    class="sc-iBYQkv aYTZL"
-                    color="red"
-                  >
-                    small
-                  </h3>
-                </div>
-                <div
-                  class="sc-eDvSVe kwEMPw"
-                >
-                  <h4
-                    class="sc-ftTHYK gToIrt"
-                    color="#45af67"
-                  >
-                    cool cross-sell offer
-                  </h4>
-                </div>
+                An offer you don't want to miss
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 15px;"
+              >
+                limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
               </div>
             </div>
           </div>
-        </div>
+        </a>
       </div>
-    </a>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 400px; height: 400px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 10px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 10px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 380px; height: 200px; border-radius: 20px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 30px;"
+            >
+              Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 19.8px;"
+            >
+              An offer you don't want to miss
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 15px;"
+            >
+              limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render large and widescreen 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 711.1111111111111px; height: 400px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 10px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 10px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 675.5555555555555px; height: 200px; border-radius: 20px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 30px;"
+              >
+                Buy One - Get One Free!
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 19.8px;"
+              >
+                An offer you don't want to miss
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 15px;"
+              >
+                limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 711.1111111111111px; height: 400px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 10px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 10px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 675.5555555555555px; height: 200px; border-radius: 20px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 30px;"
+            >
+              Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 19.8px;"
+            >
+              An offer you don't want to miss
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 15px;"
+            >
+              limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render medium and fullscreen 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 266.66666666666663px; height: 200px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 5px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 5px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 253.3333333333333px; height: 100px; border-radius: 10px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 20px;"
+              >
+                Buy One - Get One Free!
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 13.200000000000001px;"
+              >
+                An offer you don't want to miss
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 266.66666666666663px; height: 200px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 5px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 5px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 253.3333333333333px; height: 100px; border-radius: 10px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 20px;"
+            >
+              Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 13.200000000000001px;"
+            >
+              An offer you don't want to miss
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render medium and square 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 200px; height: 200px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 5px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 5px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 190px; height: 100px; border-radius: 10px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 20px;"
+              >
+                Buy One - Get One Free!
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 13.200000000000001px;"
+              >
+                An offer you don't want to miss
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 200px; height: 200px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 5px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 5px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 190px; height: 100px; border-radius: 10px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 20px;"
+            >
+              Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 13.200000000000001px;"
+            >
+              An offer you don't want to miss
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render medium and widescreen 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 355.55555555555554px; height: 200px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 5px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 5px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 337.77777777777777px; height: 100px; border-radius: 10px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 20px;"
+              >
+                Buy One - Get One Free!
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 13.200000000000001px;"
+              >
+                An offer you don't want to miss
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 355.55555555555554px; height: 200px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 5px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 5px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 337.77777777777777px; height: 100px; border-radius: 10px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 20px;"
+            >
+              Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 13.200000000000001px;"
+            >
+              An offer you don't want to miss
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render small and fullscreen 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 133.33333333333331px; height: 100px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 2px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 2px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 126.66666666666664px; height: 50px; border-radius: 4px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 15px;"
+              >
+                Buy One - Get One Free!
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 133.33333333333331px; height: 100px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 2px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 2px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 126.66666666666664px; height: 50px; border-radius: 4px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 15px;"
+            >
+              Buy One - Get One Free!
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render small and square 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 100px; height: 100px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 2px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 2px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 95px; height: 50px; border-radius: 4px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 15px;"
+              >
+                Buy One - Get One Free!
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 100px; height: 100px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 2px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 2px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 95px; height: 50px; border-radius: 4px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 15px;"
+            >
+              Buy One - Get One Free!
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CrossSellTile component should render small and widescreen 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="container"
+        style="width: 177.77777777777777px; height: 100px;"
+      >
+        <a
+          class="tilecontainer"
+          href="https://www.bbc.co.uk"
+          style="border-radius: 2px;"
+        >
+          <div
+            class="gradiantoverlay"
+            style="border-radius: 2px;"
+          >
+            <div
+              class="topwrapper"
+            >
+              <img
+                alt="crosssell-image"
+                class="imagecontainer"
+                src="https://picsum.photos/536/354"
+                style="width: 168.88888888888889px; height: 50px; border-radius: 4px;"
+              />
+            </div>
+            <div
+              class="bottomwrapper"
+            >
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 15px;"
+              >
+                Buy One - Get One Free!
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="container"
+      style="width: 177.77777777777777px; height: 100px;"
+    >
+      <a
+        class="tilecontainer"
+        href="https://www.bbc.co.uk"
+        style="border-radius: 2px;"
+      >
+        <div
+          class="gradiantoverlay"
+          style="border-radius: 2px;"
+        >
+          <div
+            class="topwrapper"
+          >
+            <img
+              alt="crosssell-image"
+              class="imagecontainer"
+              src="https://picsum.photos/536/354"
+              style="width: 168.88888888888889px; height: 50px; border-radius: 4px;"
+            />
+          </div>
+          <div
+            class="bottomwrapper"
+          >
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 15px;"
+            >
+              Buy One - Get One Free!
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

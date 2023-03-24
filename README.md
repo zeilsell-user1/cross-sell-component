@@ -1,15 +1,14 @@
 # Cross-Sell-Component
 
-A simple cross-sell or up-sell tile that can be included into any react/next project. 
-
+A simple cross-sell or up-sell tile that can be included into any react/next project.
 
 ## features
 
-* Three sizes of tile, small, medium and large
-* Three aspect ratios, square, full and widescreen
-* Optional image for background
-* Text colors selectable
-* Clicks thorugh to an user-defined URL
+- Three sizes of tile, small, medium and large
+- Three aspect ratios, square, full and widescreen
+- Optional image for background
+- Text colors selectable
+- Clicks thorugh to an user-defined URL
 
 ## API
 
@@ -19,7 +18,7 @@ enum Size {
     medium, // 50% width
     large,  // 75% width
   }
-  
+
 export enum AspectRatio {
   square,     // 1x1
   fullscreen, // 4x3

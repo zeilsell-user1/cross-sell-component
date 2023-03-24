@@ -1,1 +1,1 @@
-export * from './components';
+export * from "./cross-sell-tile";
