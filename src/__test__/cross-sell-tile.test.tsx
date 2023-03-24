@@ -38,7 +38,7 @@ describe("CrossSellTile component", () => {
     );
     expect(containerLargeFull).toMatchSnapshot();
   });
-  
+
   it("should render large and square", () => {
     const containerLargeSquare = render(
       <CrossSellTile
@@ -56,7 +56,7 @@ describe("CrossSellTile component", () => {
     );
     expect(containerLargeSquare).toMatchSnapshot();
   });
-  
+
   it("should render medium and widescreen", () => {
     const containerMediumWide = render(
       <CrossSellTile
@@ -74,7 +74,7 @@ describe("CrossSellTile component", () => {
     );
     expect(containerMediumWide).toMatchSnapshot();
   });
-  
+
   it("should render medium and fullscreen", () => {
     const containerMediumFull = render(
       <CrossSellTile
@@ -92,7 +92,7 @@ describe("CrossSellTile component", () => {
     );
     expect(containerMediumFull).toMatchSnapshot();
   });
-  
+
   it("should render medium and square", () => {
     const containerMediumSquare = render(
       <CrossSellTile
@@ -128,7 +128,7 @@ describe("CrossSellTile component", () => {
     );
     expect(containerSmallmWide).toMatchSnapshot();
   });
-  
+
   it("should render small and fullscreen", () => {
     const containerSmallFull = render(
       <CrossSellTile

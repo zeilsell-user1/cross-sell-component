@@ -1,4 +1,4 @@
-import { AspectRatio, CrossSellTile, Size } from ".";
+import { AspectRatio, CrossSellTile, Size } from "../cross-sell-tile";
 
 export const containerLargeWide = (): JSX.Element => (
   <CrossSellTile
