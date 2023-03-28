@@ -1,7 +1,7 @@
 {
   "name": "@zeilsell-user1/cross-sell-component",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "This is a simple scross sell component to be used with react/next apps",
   "author": "Richard George <richard.john.george.3@gmail.com>",
   "license": "MIT",
