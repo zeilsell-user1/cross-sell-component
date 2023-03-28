@@ -1,22 +1,19 @@
 .container {
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1 solid red;
 }
 
 .tilecontainer {
   width: 100%;
-  height: 100%;
   background-color: transparent;
   box-shadow: rgb(0 0 0 / 40%) 3px 5px 6px 1px;
   cursor: pointer;
 }
 
 .gradiantoverlay {
-  width: 100%;
-  height: 100%;
   background: linear-gradient(180deg, #a49fca 0%, #1704a2 100%);
   display: flex;
   flex-direction: column;
@@ -25,28 +22,19 @@
 }
 
 .topwrapper {
-  height: 60%;
+  height: 55%;
+  width: 96%;
   background-color: transparent;
-  display: grid;
-  grid-template-columns: 1fr;
-}
-
-.ctabutton {
-  border: 1px solid #000;
-  margin: 2%;
-  padding: 2%;
-  background-color: #fff;
-  width: fit-content;
-}
-
-.ctatext {
-  padding-top: 2%;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .imagecontainer {
   color: black;
   padding: 2%;
+  width: 96%;
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
@@ -54,12 +42,12 @@
 }
 
 .bottomwrapper {
-  height: 40%;
+  height: 45%;
   background-color: transparent;
 }
 
 .textwrapper {
-  padding: 2%;
+  padding: 1% 6%;
   margin: 0;
   text-align: center;
 }

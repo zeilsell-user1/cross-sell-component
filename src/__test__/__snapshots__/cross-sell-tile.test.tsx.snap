@@ -7,16 +7,16 @@ exports[`CrossSellTile component should render large and fullscreen 1`] = `
     <div>
       <div
         class="container"
-        style="width: 533.3333333333333px; height: 400px;"
+        style="width: 100%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 10px;"
+          style="border-radius: 20px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 10px;"
+            style="border-radius: 20px;"
           >
             <div
               class="topwrapper"
@@ -25,7 +25,7 @@ exports[`CrossSellTile component should render large and fullscreen 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 506.6666666666666px; height: 200px; border-radius: 20px;"
+                style="border-radius: 20px;"
               />
             </div>
             <div
@@ -33,19 +33,19 @@ exports[`CrossSellTile component should render large and fullscreen 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 30px;"
+                style="color: white; font-size: 6vw;"
               >
                 Buy One - Get One Free!
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 19.8px;"
+                style="color: white; font-size: 3.96vw;"
               >
                 An offer you don't want to miss
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 15px;"
+                style="color: white; font-size: 3vw;"
               >
                 limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
               </div>
@@ -58,16 +58,16 @@ exports[`CrossSellTile component should render large and fullscreen 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 533.3333333333333px; height: 400px;"
+      style="width: 100%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 10px;"
+        style="border-radius: 20px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 10px;"
+          style="border-radius: 20px;"
         >
           <div
             class="topwrapper"
@@ -76,7 +76,7 @@ exports[`CrossSellTile component should render large and fullscreen 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 506.6666666666666px; height: 200px; border-radius: 20px;"
+              style="border-radius: 20px;"
             />
           </div>
           <div
@@ -84,19 +84,19 @@ exports[`CrossSellTile component should render large and fullscreen 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 30px;"
+              style="color: white; font-size: 6vw;"
             >
               Buy One - Get One Free!
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 19.8px;"
+              style="color: white; font-size: 3.96vw;"
             >
               An offer you don't want to miss
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 15px;"
+              style="color: white; font-size: 3vw;"
             >
               limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
             </div>
@@ -166,16 +166,16 @@ exports[`CrossSellTile component should render large and square 1`] = `
     <div>
       <div
         class="container"
-        style="width: 400px; height: 400px;"
+        style="width: 100%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 10px;"
+          style="border-radius: 20px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 10px;"
+            style="border-radius: 20px;"
           >
             <div
               class="topwrapper"
@@ -184,7 +184,7 @@ exports[`CrossSellTile component should render large and square 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 380px; height: 200px; border-radius: 20px;"
+                style="border-radius: 20px;"
               />
             </div>
             <div
@@ -192,19 +192,19 @@ exports[`CrossSellTile component should render large and square 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 30px;"
+                style="color: white; font-size: 6vw;"
               >
                 Buy One - Get One Free!
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 19.8px;"
+                style="color: white; font-size: 3.96vw;"
               >
                 An offer you don't want to miss
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 15px;"
+                style="color: white; font-size: 3vw;"
               >
                 limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
               </div>
@@ -217,16 +217,16 @@ exports[`CrossSellTile component should render large and square 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 400px; height: 400px;"
+      style="width: 100%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 10px;"
+        style="border-radius: 20px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 10px;"
+          style="border-radius: 20px;"
         >
           <div
             class="topwrapper"
@@ -235,7 +235,7 @@ exports[`CrossSellTile component should render large and square 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 380px; height: 200px; border-radius: 20px;"
+              style="border-radius: 20px;"
             />
           </div>
           <div
@@ -243,19 +243,19 @@ exports[`CrossSellTile component should render large and square 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 30px;"
+              style="color: white; font-size: 6vw;"
             >
               Buy One - Get One Free!
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 19.8px;"
+              style="color: white; font-size: 3.96vw;"
             >
               An offer you don't want to miss
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 15px;"
+              style="color: white; font-size: 3vw;"
             >
               limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
             </div>
@@ -325,16 +325,16 @@ exports[`CrossSellTile component should render large and widescreen 1`] = `
     <div>
       <div
         class="container"
-        style="width: 711.1111111111111px; height: 400px;"
+        style="width: 100%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 10px;"
+          style="border-radius: 20px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 10px;"
+            style="border-radius: 20px;"
           >
             <div
               class="topwrapper"
@@ -343,7 +343,7 @@ exports[`CrossSellTile component should render large and widescreen 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 675.5555555555555px; height: 200px; border-radius: 20px;"
+                style="border-radius: 20px;"
               />
             </div>
             <div
@@ -351,19 +351,19 @@ exports[`CrossSellTile component should render large and widescreen 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 30px;"
+                style="color: white; font-size: 6vw;"
               >
                 Buy One - Get One Free!
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 19.8px;"
+                style="color: white; font-size: 3.96vw;"
               >
                 An offer you don't want to miss
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 15px;"
+                style="color: white; font-size: 3vw;"
               >
                 limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
               </div>
@@ -376,16 +376,16 @@ exports[`CrossSellTile component should render large and widescreen 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 711.1111111111111px; height: 400px;"
+      style="width: 100%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 10px;"
+        style="border-radius: 20px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 10px;"
+          style="border-radius: 20px;"
         >
           <div
             class="topwrapper"
@@ -394,7 +394,7 @@ exports[`CrossSellTile component should render large and widescreen 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 675.5555555555555px; height: 200px; border-radius: 20px;"
+              style="border-radius: 20px;"
             />
           </div>
           <div
@@ -402,19 +402,19 @@ exports[`CrossSellTile component should render large and widescreen 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 30px;"
+              style="color: white; font-size: 6vw;"
             >
               Buy One - Get One Free!
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 19.8px;"
+              style="color: white; font-size: 3.96vw;"
             >
               An offer you don't want to miss
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 15px;"
+              style="color: white; font-size: 3vw;"
             >
               limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
             </div>
@@ -484,16 +484,16 @@ exports[`CrossSellTile component should render medium and fullscreen 1`] = `
     <div>
       <div
         class="container"
-        style="width: 266.66666666666663px; height: 200px;"
+        style="width: 66%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 5px;"
+          style="border-radius: 10px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 5px;"
+            style="border-radius: 10px;"
           >
             <div
               class="topwrapper"
@@ -502,7 +502,7 @@ exports[`CrossSellTile component should render medium and fullscreen 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 253.3333333333333px; height: 100px; border-radius: 10px;"
+                style="border-radius: 10px;"
               />
             </div>
             <div
@@ -510,13 +510,13 @@ exports[`CrossSellTile component should render medium and fullscreen 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 20px;"
+                style="color: white; font-size: 4vw;"
               >
                 Buy One - Get One Free!
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 13.200000000000001px;"
+                style="color: white; font-size: 2.64vw;"
               >
                 An offer you don't want to miss
               </div>
@@ -529,16 +529,16 @@ exports[`CrossSellTile component should render medium and fullscreen 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 266.66666666666663px; height: 200px;"
+      style="width: 66%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 5px;"
+        style="border-radius: 10px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 5px;"
+          style="border-radius: 10px;"
         >
           <div
             class="topwrapper"
@@ -547,7 +547,7 @@ exports[`CrossSellTile component should render medium and fullscreen 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 253.3333333333333px; height: 100px; border-radius: 10px;"
+              style="border-radius: 10px;"
             />
           </div>
           <div
@@ -555,13 +555,13 @@ exports[`CrossSellTile component should render medium and fullscreen 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 20px;"
+              style="color: white; font-size: 4vw;"
             >
               Buy One - Get One Free!
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 13.200000000000001px;"
+              style="color: white; font-size: 2.64vw;"
             >
               An offer you don't want to miss
             </div>
@@ -631,16 +631,16 @@ exports[`CrossSellTile component should render medium and square 1`] = `
     <div>
       <div
         class="container"
-        style="width: 200px; height: 200px;"
+        style="width: 66%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 5px;"
+          style="border-radius: 10px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 5px;"
+            style="border-radius: 10px;"
           >
             <div
               class="topwrapper"
@@ -649,7 +649,7 @@ exports[`CrossSellTile component should render medium and square 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 190px; height: 100px; border-radius: 10px;"
+                style="border-radius: 10px;"
               />
             </div>
             <div
@@ -657,15 +657,21 @@ exports[`CrossSellTile component should render medium and square 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 20px;"
+                style="color: white; font-size: 4vw;"
               >
                 Buy One - Get One Free!
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 13.200000000000001px;"
+                style="color: white; font-size: 2.64vw;"
               >
                 An offer you don't want to miss
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 2vw;"
+              >
+                limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
               </div>
             </div>
           </div>
@@ -676,16 +682,16 @@ exports[`CrossSellTile component should render medium and square 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 200px; height: 200px;"
+      style="width: 66%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 5px;"
+        style="border-radius: 10px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 5px;"
+          style="border-radius: 10px;"
         >
           <div
             class="topwrapper"
@@ -694,7 +700,7 @@ exports[`CrossSellTile component should render medium and square 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 190px; height: 100px; border-radius: 10px;"
+              style="border-radius: 10px;"
             />
           </div>
           <div
@@ -702,15 +708,21 @@ exports[`CrossSellTile component should render medium and square 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 20px;"
+              style="color: white; font-size: 4vw;"
             >
               Buy One - Get One Free!
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 13.200000000000001px;"
+              style="color: white; font-size: 2.64vw;"
             >
               An offer you don't want to miss
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 2vw;"
+            >
+              limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
             </div>
           </div>
         </div>
@@ -778,16 +790,16 @@ exports[`CrossSellTile component should render medium and widescreen 1`] = `
     <div>
       <div
         class="container"
-        style="width: 355.55555555555554px; height: 200px;"
+        style="width: 66%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 5px;"
+          style="border-radius: 10px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 5px;"
+            style="border-radius: 10px;"
           >
             <div
               class="topwrapper"
@@ -796,7 +808,7 @@ exports[`CrossSellTile component should render medium and widescreen 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 337.77777777777777px; height: 100px; border-radius: 10px;"
+                style="border-radius: 10px;"
               />
             </div>
             <div
@@ -804,13 +816,13 @@ exports[`CrossSellTile component should render medium and widescreen 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 20px;"
+                style="color: white; font-size: 4vw;"
               >
                 Buy One - Get One Free!
               </div>
               <div
                 class="textwrapper"
-                style="color: white; font-size: 13.200000000000001px;"
+                style="color: white; font-size: 2.64vw;"
               >
                 An offer you don't want to miss
               </div>
@@ -823,16 +835,16 @@ exports[`CrossSellTile component should render medium and widescreen 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 355.55555555555554px; height: 200px;"
+      style="width: 66%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 5px;"
+        style="border-radius: 10px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 5px;"
+          style="border-radius: 10px;"
         >
           <div
             class="topwrapper"
@@ -841,7 +853,7 @@ exports[`CrossSellTile component should render medium and widescreen 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 337.77777777777777px; height: 100px; border-radius: 10px;"
+              style="border-radius: 10px;"
             />
           </div>
           <div
@@ -849,13 +861,13 @@ exports[`CrossSellTile component should render medium and widescreen 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 20px;"
+              style="color: white; font-size: 4vw;"
             >
               Buy One - Get One Free!
             </div>
             <div
               class="textwrapper"
-              style="color: white; font-size: 13.200000000000001px;"
+              style="color: white; font-size: 2.64vw;"
             >
               An offer you don't want to miss
             </div>
@@ -925,16 +937,16 @@ exports[`CrossSellTile component should render small and fullscreen 1`] = `
     <div>
       <div
         class="container"
-        style="width: 133.33333333333331px; height: 100px;"
+        style="width: 33%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 2px;"
+          style="border-radius: 4px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 2px;"
+            style="border-radius: 4px;"
           >
             <div
               class="topwrapper"
@@ -943,7 +955,7 @@ exports[`CrossSellTile component should render small and fullscreen 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 126.66666666666664px; height: 50px; border-radius: 4px;"
+                style="border-radius: 4px;"
               />
             </div>
             <div
@@ -951,7 +963,7 @@ exports[`CrossSellTile component should render small and fullscreen 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 15px;"
+                style="color: white; font-size: 3vw;"
               >
                 Buy One - Get One Free!
               </div>
@@ -964,16 +976,16 @@ exports[`CrossSellTile component should render small and fullscreen 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 133.33333333333331px; height: 100px;"
+      style="width: 33%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 2px;"
+        style="border-radius: 4px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 2px;"
+          style="border-radius: 4px;"
         >
           <div
             class="topwrapper"
@@ -982,7 +994,7 @@ exports[`CrossSellTile component should render small and fullscreen 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 126.66666666666664px; height: 50px; border-radius: 4px;"
+              style="border-radius: 4px;"
             />
           </div>
           <div
@@ -990,7 +1002,7 @@ exports[`CrossSellTile component should render small and fullscreen 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 15px;"
+              style="color: white; font-size: 3vw;"
             >
               Buy One - Get One Free!
             </div>
@@ -1060,16 +1072,16 @@ exports[`CrossSellTile component should render small and square 1`] = `
     <div>
       <div
         class="container"
-        style="width: 100px; height: 100px;"
+        style="width: 33%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 2px;"
+          style="border-radius: 4px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 2px;"
+            style="border-radius: 4px;"
           >
             <div
               class="topwrapper"
@@ -1078,7 +1090,7 @@ exports[`CrossSellTile component should render small and square 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 95px; height: 50px; border-radius: 4px;"
+                style="border-radius: 4px;"
               />
             </div>
             <div
@@ -1086,9 +1098,15 @@ exports[`CrossSellTile component should render small and square 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 15px;"
+                style="color: white; font-size: 3vw;"
               >
                 Buy One - Get One Free!
+              </div>
+              <div
+                class="textwrapper"
+                style="color: white; font-size: 1.5vw;"
+              >
+                limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
               </div>
             </div>
           </div>
@@ -1099,16 +1117,16 @@ exports[`CrossSellTile component should render small and square 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 100px; height: 100px;"
+      style="width: 33%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 2px;"
+        style="border-radius: 4px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 2px;"
+          style="border-radius: 4px;"
         >
           <div
             class="topwrapper"
@@ -1117,7 +1135,7 @@ exports[`CrossSellTile component should render small and square 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 95px; height: 50px; border-radius: 4px;"
+              style="border-radius: 4px;"
             />
           </div>
           <div
@@ -1125,9 +1143,15 @@ exports[`CrossSellTile component should render small and square 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 15px;"
+              style="color: white; font-size: 3vw;"
             >
               Buy One - Get One Free!
+            </div>
+            <div
+              class="textwrapper"
+              style="color: white; font-size: 1.5vw;"
+            >
+              limited time offer that is applicable to monkeys only. Do not apply if you are green or over 300
             </div>
           </div>
         </div>
@@ -1195,16 +1219,16 @@ exports[`CrossSellTile component should render small and widescreen 1`] = `
     <div>
       <div
         class="container"
-        style="width: 177.77777777777777px; height: 100px;"
+        style="width: 33%;"
       >
         <a
           class="tilecontainer"
           href="https://www.bbc.co.uk"
-          style="border-radius: 2px;"
+          style="border-radius: 4px;"
         >
           <div
             class="gradiantoverlay"
-            style="border-radius: 2px;"
+            style="border-radius: 4px;"
           >
             <div
               class="topwrapper"
@@ -1213,7 +1237,7 @@ exports[`CrossSellTile component should render small and widescreen 1`] = `
                 alt="crosssell-image"
                 class="imagecontainer"
                 src="https://picsum.photos/536/354"
-                style="width: 168.88888888888889px; height: 50px; border-radius: 4px;"
+                style="border-radius: 4px;"
               />
             </div>
             <div
@@ -1221,7 +1245,7 @@ exports[`CrossSellTile component should render small and widescreen 1`] = `
             >
               <div
                 class="textwrapper"
-                style="color: white; font-size: 15px;"
+                style="color: white; font-size: 3vw;"
               >
                 Buy One - Get One Free!
               </div>
@@ -1234,16 +1258,16 @@ exports[`CrossSellTile component should render small and widescreen 1`] = `
   "container": <div>
     <div
       class="container"
-      style="width: 177.77777777777777px; height: 100px;"
+      style="width: 33%;"
     >
       <a
         class="tilecontainer"
         href="https://www.bbc.co.uk"
-        style="border-radius: 2px;"
+        style="border-radius: 4px;"
       >
         <div
           class="gradiantoverlay"
-          style="border-radius: 2px;"
+          style="border-radius: 4px;"
         >
           <div
             class="topwrapper"
@@ -1252,7 +1276,7 @@ exports[`CrossSellTile component should render small and widescreen 1`] = `
               alt="crosssell-image"
               class="imagecontainer"
               src="https://picsum.photos/536/354"
-              style="width: 168.88888888888889px; height: 50px; border-radius: 4px;"
+              style="border-radius: 4px;"
             />
           </div>
           <div
@@ -1260,7 +1284,7 @@ exports[`CrossSellTile component should render small and widescreen 1`] = `
           >
             <div
               class="textwrapper"
-              style="color: white; font-size: 15px;"
+              style="color: white; font-size: 3vw;"
             >
               Buy One - Get One Free!
             </div>

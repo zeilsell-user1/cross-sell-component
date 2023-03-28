@@ -16,12 +16,12 @@ export interface TileProps {
 }
 
 export const CrossSellTile = (props: TileProps): JSX.Element => {
-  const height: number =
-    props.size === Size.small ? 100 : props.size === Size.medium ? 200 : 400;
+  const width: number =
+    props.size === Size.small ? 33 : props.size === Size.medium ? 66 : 100;
   const largeFont: number =
-    props.size === Size.small ? 15 : props.size === Size.medium ? 20 : 30;
+    props.size === Size.small ? 3 : props.size === Size.medium ? 4 : 6;
   const radius: number =
-    props.size === Size.small ? 2 : props.size === Size.medium ? 5 : 10;
+    props.size === Size.small ? 4 : props.size === Size.medium ? 10 : 20;
   const ratio: number =
     props.ratio === AspectRatio.square
       ? 1
@@ -32,22 +32,24 @@ export const CrossSellTile = (props: TileProps): JSX.Element => {
   return (
     <div
       className={"container"}
-      style={{ width: height * ratio, height: height }}
+      style={{ width: width.toString() + "%", aspectRatio: ratio }}
     >
       <a
         className={"tilecontainer"}
         href={props.targetUrl}
-        style={{ borderRadius: radius }}
+        style={{ borderRadius: radius, aspectRatio: ratio }}
       >
-        <div className={"gradiantoverlay"} style={{ borderRadius: radius }}>
+        <div
+          className={"gradiantoverlay"}
+          style={{ borderRadius: radius, aspectRatio: ratio }}
+        >
           <div className={"topwrapper"}>
             <img
               className={"imagecontainer"}
               src={props.imageUrl}
               style={{
-                width: height * 0.5 * ratio * 1.9,
-                height: height * 0.5,
-                borderRadius: radius * 2,
+                aspectRatio: ratio * 2,
+                borderRadius: radius,
               }}
               alt="crosssell-image"
             />
@@ -55,7 +57,10 @@ export const CrossSellTile = (props: TileProps): JSX.Element => {
           <div className={"bottomwrapper"}>
             <div
               className={"textwrapper"}
-              style={{ color: props.titleColor, fontSize: largeFont }}
+              style={{
+                color: props.titleColor,
+                fontSize: largeFont.toString() + "vw",
+              }}
             >
               {props.title}
             </div>
@@ -64,18 +69,19 @@ export const CrossSellTile = (props: TileProps): JSX.Element => {
                 className={"textwrapper"}
                 style={{
                   color: props.straplineColor,
-                  fontSize: largeFont * 0.66,
+                  fontSize: (largeFont * 0.66).toString() + "vw",
                 }}
               >
                 {props.strapline}
               </div>
             )}
-            {props.size != Size.medium && props.size != Size.small && (
+            {((props.size != Size.medium && props.size != Size.small) ||
+              props.ratio === AspectRatio.square) && (
               <div
                 className={"textwrapper"}
                 style={{
                   color: props.descriptionColor,
-                  fontSize: largeFont * 0.5,
+                  fontSize: (largeFont * 0.5).toString() + "vw",
                 }}
               >
                 {props.description}
